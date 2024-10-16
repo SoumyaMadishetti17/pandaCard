@@ -1,0 +1,42 @@
+#panda{
+    font-family: "Pixelify Sans", sans-serif;
+    /* font-optical-sizing: auto; */
+    font-weight: bold;
+    font-style: normal;
+  }
+  .img{
+      padding: 20px;
+      width: 400px;
+      border-radius: 50%;
+      height:300px ;
+  }
+  #container{
+      height: 610px;
+      width: 450px;
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+  }
+  #name{
+      color: #b6bc60;
+      font-family: "Pixelify Sans", sans-serif;
+  
+  }
+  #box{
+      text-align: center;
+  }
+  p{
+      font-weight: 100;
+      color: #ad8e74;
+      font-size: 20px;
+  }
+  .yr{
+      font-weight: 500;
+      /* font-weight: ; */
+      /* font-weight: 400; */
+  }
+  #star{
+      text-align: center;
+      font-weight: bolder;
+  }
+  #main{
+      font-family: "Hanken Grotesk", sans-serif;
+  }
